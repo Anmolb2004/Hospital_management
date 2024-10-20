@@ -3,6 +3,7 @@ A full-stack Hospital Management System developed using the MERN (MongoDB, Expre
 
 # Features
 User Roles: Separate dashboards for patients, doctors, and admins.
+
 Authentication: JWT and cookies for secure login and role-based access control.
 
 ## Patient Features:
@@ -26,9 +27,13 @@ MongoDB to store users, appointments, and messages.
 
 # Tech Stack
 Frontend: React.js
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT) and cookies
+
 Media Storage: Cloudinary
 
 # Usage
