@@ -33,5 +33,7 @@ Media Storage: Cloudinary
 
 # Usage
 Patients: Can register, log in, and book appointments
+
 Doctors: Manage their schedules and view patient messages
+
 Admins: Oversee all appointments and interact with both patients and doctors
