@@ -2,22 +2,26 @@
 A full-stack Hospital Management System developed using the MERN (MongoDB, Express, React, Node.js) stack. It features separate dashboards for patients and admins, providing streamlined management of appointments, patient data, and doctor interactions.
 
 # Features
-### User Roles: Separate dashboards for patients, doctors, and admins.
-### Authentication: JWT and cookies for secure login and role-based access control.
+User Roles: Separate dashboards for patients, doctors, and admins.
+Authentication: JWT and cookies for secure login and role-based access control.
 
 ## Patient Features:
-### Registration and login
-### Book appointments
-### Send messages to doctors/admin
+Registration and login
+Book appointments
+Send messages to doctors/admin
+
 ## Admin Features:
 Manage appointments and patient details
 View and respond to messages
+
 ## Doctor Features:
 Manage their schedules and appointments
 View messages from patients
+
 ## Media Handling:
 Doctor profile images uploaded via Cloudinary
-##Database Management:
+
+## Database Management:
 MongoDB to store users, appointments, and messages.
 
 # Tech Stack
